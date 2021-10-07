@@ -10,5 +10,8 @@ public static class Logic
 	// Switch a lift out for another
 
 	// Complete a workout
+
+	// Show lift name  options
+	
 	
 }

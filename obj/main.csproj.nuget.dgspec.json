@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/EvergreenMatureUnix/main.csproj": {}
+    "/home/runner/BestWorkoutAppSoFar/main.csproj": {}
   },
   "projects": {
-    "/home/runner/EvergreenMatureUnix/main.csproj": {
+    "/home/runner/BestWorkoutAppSoFar/main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/EvergreenMatureUnix/main.csproj",
+        "projectUniqueName": "/home/runner/BestWorkoutAppSoFar/main.csproj",
         "projectName": "main",
-        "projectPath": "/home/runner/EvergreenMatureUnix/main.csproj",
+        "projectPath": "/home/runner/BestWorkoutAppSoFar/main.csproj",
         "packagesPath": "/home/runner/.nuget/packages/",
-        "outputPath": "/home/runner/EvergreenMatureUnix/obj/",
+        "outputPath": "/home/runner/BestWorkoutAppSoFar/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/runner/.nuget/NuGet/NuGet.Config"
